@@ -2,7 +2,7 @@
 This folder contains the IaC Scripst & Diagram for Udacity Project 2 - Deploy a high-availability web app using CloudFormation project. This folder contains the following files:
 
 #### Udagram Diagram.png
-![Network Diagram](https://github.com/eldeeno/iac_project/Udagram-Diagram.png?raw=true)
+![Network Diagram](https://github.com/eldeeno/iac_project/blob/master/Udagram-Diagram.png?raw=true)
 This image file depicts the conceptual design of the Network components
 
 #### udagram-infra-params.json
