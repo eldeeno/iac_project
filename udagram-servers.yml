@@ -65,7 +65,7 @@ Resources:
                     sudo apt-get install apache2 -y
                     sudo systemctl start apache2.service 
                     cd /var/www/html
-                    echo "it works! Udagram, Udacity!" > index.html
+                    echo "Hello! This is Shamsuddeen Abdulkadir's work." > index.html
             ImageId: ami-08d4ac5b634553e16
             SecurityGroups:
               - Ref: WebServerSecurityGroup
