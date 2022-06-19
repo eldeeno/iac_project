@@ -16,3 +16,6 @@ This file contains script that create the network infrastructure resources
 
 ### 5- udagram-servers.yml
 This file contains script that create the server resources
+
+### 6- load Balancer Generated URL
+http://udagr-webap-u3wvalwsbok7-1318632194.us-east-1.elb.amazonaws.com/
